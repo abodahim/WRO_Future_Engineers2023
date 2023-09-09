@@ -16,6 +16,8 @@ This repository contains engineering materials of a self-driven vehicle's model 
 ## Introduction
 
 _This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+_The car completes three turns on the track and avoids the walls using the distance sensor and the color sensor.
+The car completes three laps on the track, recognizes randomly placed green and red traffic lights, and turns next to them._
 
 ## How to prepare the repo based on the template
 
